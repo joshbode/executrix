@@ -1,0 +1,3 @@
+[submodule "lib/Adafruit-Trinket-USB"]
+	path = lib/Adafruit-Trinket-USB
+	url = git@github.com:adafruit/Adafruit-Trinket-USB.git
